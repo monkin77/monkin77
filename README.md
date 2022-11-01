@@ -2,15 +2,10 @@
 
 I'm João and I'm an Informatics and Computing Engineering student at @FEUP:
 
-- 🔭 I’m currently working on C++, C, React, Javascript, DiscordJS, Java
-- 🌱 I’m currently learning JavaScript and React
+- 🔭 I’m currently working on C++, C, React, Javascript, Java
+- 🌱 I’m currently learning Unity and Neuroscience
 - 💬 Ask me about Anything
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-mesquita-a68767193/)**
-- 😄 Pronouns: He / Him
-
-<!---
-  - ⚡ Fun fact: 
- -->
 
 📈 My GitHub Stats
 
