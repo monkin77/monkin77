@@ -1,11 +1,11 @@
 ### Hey 👋
 
-I'm João and I'm an Informatics and Computing Engineering student at @FEUP:
+I'm João, and I'm a graduated MSc in Informatics and Computing Engineering student at @FEUP:
 
-- 🔭 I’m currently working on C++, C, React, Javascript, Java
-- 🌱 I’m currently learning Unity and Neuroscience
+- 🌱 I’m invested in Computational Neuroscience and AI
+- 🔭 Proficient in Python, C++, C, React, Javascript, Java, etc.
 - 💬 Ask me about Anything
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-mesquita-a68767193/)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/joao-mesquita7/)**
 
 📈 My GitHub Stats
 
